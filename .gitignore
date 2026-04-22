@@ -1,0 +1,6 @@
+venv/
+chroma_db
+chroma_db/
+data/
+my_model_cache/
+__pycache__
